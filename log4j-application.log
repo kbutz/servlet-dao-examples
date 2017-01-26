@@ -1,0 +1,539 @@
+2016-11-01 10:38:42 DEBUG Main:27 - This is a DEBUG log message
+2016-11-01 10:38:42 INFO  Main:28 - This is an INFO log message
+2016-11-01 10:38:42 WARN  Main:29 - This is a WARN message
+2016-11-01 10:38:42 ERROR Main:30 - This is an ERROR log message
+2016-11-01 10:38:42 FATAL Main:31 - This is a FATAL log message
+2016-11-01 10:41:14 DEBUG Main:27 - This is a DEBUG log message
+2016-11-01 10:41:14 INFO  Main:28 - This is an INFO log message
+2016-11-01 10:41:14 WARN  Main:31 - This is a WARN message
+2016-11-01 10:41:14 ERROR Main:32 - This is an ERROR log message
+2016-11-01 10:41:14 FATAL Main:33 - This is a FATAL log message
+2016-11-01 10:41:14 ERROR Main:39 - An exception occured: java.lang.ArithmeticException: / by zero
+2016-11-01 10:42:44 DEBUG Main:27 - This is a DEBUG log message
+2016-11-01 10:42:44 INFO  Main:28 - This is an INFO log message
+2016-11-01 10:42:44 WARN  Main:31 - This is a WARN message
+2016-11-01 10:42:44 ERROR Main:32 - This is an ERROR log message
+2016-11-01 10:42:44 FATAL Main:33 - This is a FATAL log message
+2016-11-01 10:42:44 ERROR Main:39 - An exception occured: java.lang.ArithmeticException: / by zero
+2016-11-01 13:05:35 INFO  Main:32 - MySQL Driver Registered
+2016-11-01 13:09:53 INFO  Main:35 - MySQL Driver Registered
+2016-11-01 13:10:00 INFO  Main:46 - Successfully connected to MySQL database
+2016-11-01 13:10:31 INFO  Main:35 - MySQL Driver Registered
+2016-11-01 13:10:34 ERROR Main:41 - Connection failed! java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+2016-11-01 13:13:21 INFO  Main:40 - MySQL Driver Registered
+2016-11-01 13:13:25 INFO  Main:51 - Successfully connected to MySQL database
+2016-11-01 13:46:54 INFO  Main:57 - MySQL Driver Registered
+2016-11-01 13:46:59 INFO  Main:68 - Successfully connected to MySQL database
+2016-11-01 13:48:40 INFO  Main:57 - MySQL Driver Registered
+2016-11-01 13:48:43 INFO  Main:68 - Successfully connected to MySQL database
+2016-11-01 13:49:28 INFO  Main:57 - MySQL Driver Registered
+2016-11-01 13:49:35 INFO  Main:68 - Successfully connected to MySQL database
+2016-11-01 13:49:35 INFO  Main:35 - FirstName: Dan, LastName: Simmer
+2016-11-01 13:49:35 INFO  Main:35 - FirstName: James, LastName: McRoberts
+2016-11-01 13:49:35 INFO  Main:35 - FirstName: Adrian, LastName: Ratnayake
+2016-11-01 13:49:35 INFO  Main:35 - FirstName: Sean, LastName: Nilsen
+2016-11-01 13:49:35 INFO  Main:35 - FirstName: Eric, LastName: Begin
+2016-11-01 13:49:35 INFO  Main:35 - FirstName: Kevin, LastName: Love
+2016-11-01 13:49:35 INFO  Main:35 - FirstName: Michael, LastName: Jordan
+2016-11-01 13:49:35 INFO  Main:35 - FirstName: Jim, LastName: Beam
+2016-11-01 13:49:35 INFO  Main:35 - FirstName: Alex, LastName: Rodriguez
+2016-11-01 13:54:40 INFO  Main:57 - MySQL Driver Registered
+2016-11-01 13:54:46 INFO  Main:68 - Successfully connected to MySQL database
+2016-11-01 13:54:46 INFO  Main:35 - FirstName: Dan, LastName: Simmer
+2016-11-01 13:54:46 INFO  Main:35 - FirstName: James, LastName: McRoberts
+2016-11-01 13:54:46 INFO  Main:35 - FirstName: Adrian, LastName: Ratnayake
+2016-11-01 13:54:46 INFO  Main:35 - FirstName: Sean, LastName: Nilsen
+2016-11-01 13:54:46 INFO  Main:35 - FirstName: Eric, LastName: Begin
+2016-11-01 13:54:46 INFO  Main:35 - FirstName: Kevin, LastName: Love
+2016-11-01 13:54:46 INFO  Main:35 - FirstName: Michael, LastName: Jordan
+2016-11-01 13:54:46 INFO  Main:35 - FirstName: Jim, LastName: Beam
+2016-11-01 13:54:47 INFO  Main:35 - FirstName: Alex, LastName: Rodriguez
+2016-11-01 14:17:37 INFO  Main:59 - MySQL Driver Registered
+2016-11-01 14:17:40 INFO  Main:73 - Successfully connected to MySQL database
+2016-11-01 14:17:40 INFO  Main:35 - FirstName: Dan, LastName: Simmer
+2016-11-01 14:17:40 INFO  Main:35 - FirstName: James, LastName: McRoberts
+2016-11-01 14:17:40 INFO  Main:35 - FirstName: Adrian, LastName: Ratnayake
+2016-11-01 14:17:40 INFO  Main:35 - FirstName: Sean, LastName: Nilsen
+2016-11-01 14:17:40 INFO  Main:35 - FirstName: Eric, LastName: Begin
+2016-11-01 14:17:40 INFO  Main:35 - FirstName: Kevin, LastName: Love
+2016-11-01 14:17:40 INFO  Main:35 - FirstName: Michael, LastName: Jordan
+2016-11-01 14:17:40 INFO  Main:35 - FirstName: Jim, LastName: Beam
+2016-11-01 14:17:40 INFO  Main:35 - FirstName: Alex, LastName: Rodriguez
+2016-11-01 14:19:38 INFO  Main:61 - MySQL Driver Registered
+2016-11-01 14:19:41 INFO  Main:75 - Successfully connected to MySQL database
+2016-11-01 14:19:41 ERROR Main:41 - com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'PersondId' in 'field list'
+2016-11-01 14:22:27 INFO  Main:61 - MySQL Driver Registered
+2016-11-01 14:22:31 INFO  Main:75 - Successfully connected to MySQL database
+2016-11-01 14:22:31 ERROR Main:41 - com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'PersondId' in 'field list'
+2016-11-01 14:23:59 INFO  Main:60 - MySQL Driver Registered
+2016-11-01 14:24:02 INFO  Main:74 - Successfully connected to MySQL database
+2016-11-01 14:24:02 INFO  Main:35 - FirstName: Dan, LastName: Simmer
+2016-11-01 14:24:02 INFO  Main:35 - FirstName: James, LastName: McRoberts
+2016-11-01 14:24:02 INFO  Main:35 - FirstName: Adrian, LastName: Ratnayake
+2016-11-01 14:24:02 INFO  Main:35 - FirstName: Sean, LastName: Nilsen
+2016-11-01 14:24:02 INFO  Main:35 - FirstName: Eric, LastName: Begin
+2016-11-01 14:24:02 INFO  Main:35 - FirstName: Kevin, LastName: Love
+2016-11-01 14:24:02 INFO  Main:35 - FirstName: Michael, LastName: Jordan
+2016-11-01 14:24:02 INFO  Main:35 - FirstName: Jim, LastName: Beam
+2016-11-01 14:24:02 INFO  Main:35 - FirstName: Alex, LastName: Rodriguez
+2016-11-01 14:25:39 INFO  Main:62 - MySQL Driver Registered
+2016-11-01 14:25:42 INFO  Main:76 - Successfully connected to MySQL database
+2016-11-01 14:25:42 INFO  Main:37 - FirstName: Dan, LastName: Simmer
+2016-11-01 14:25:42 INFO  Main:37 - FirstName: James, LastName: McRoberts
+2016-11-01 14:25:42 INFO  Main:37 - FirstName: Adrian, LastName: Ratnayake
+2016-11-01 14:25:42 INFO  Main:37 - FirstName: Sean, LastName: Nilsen
+2016-11-01 14:25:42 INFO  Main:37 - FirstName: Eric, LastName: Begin
+2016-11-01 14:25:42 INFO  Main:37 - FirstName: Kevin, LastName: Love
+2016-11-01 14:25:42 INFO  Main:37 - FirstName: Michael, LastName: Jordan
+2016-11-01 14:25:42 INFO  Main:37 - FirstName: Jim, LastName: Beam
+2016-11-01 14:25:42 INFO  Main:37 - FirstName: Alex, LastName: Rodriguez
+2016-11-01 14:27:33 INFO  Main:63 - MySQL Driver Registered
+2016-11-01 14:27:36 INFO  Main:77 - Successfully connected to MySQL database
+2016-11-01 14:27:36 INFO  Main:38 - 1) FirstName: Dan, LastName: Simmer
+2016-11-01 14:27:36 INFO  Main:38 - 2) FirstName: James, LastName: McRoberts
+2016-11-01 14:27:36 INFO  Main:38 - 3) FirstName: Adrian, LastName: Ratnayake
+2016-11-01 14:27:36 INFO  Main:38 - 4) FirstName: Sean, LastName: Nilsen
+2016-11-01 14:27:36 INFO  Main:38 - 5) FirstName: Eric, LastName: Begin
+2016-11-01 14:27:36 INFO  Main:38 - 6) FirstName: Kevin, LastName: Love
+2016-11-01 14:27:36 INFO  Main:38 - 7) FirstName: Michael, LastName: Jordan
+2016-11-01 14:27:36 INFO  Main:38 - 8) FirstName: Jim, LastName: Beam
+2016-11-01 14:27:36 INFO  Main:38 - 9) FirstName: Alex, LastName: Rodriguez
+2016-11-01 14:52:48 INFO  Main:89 - MySQL Driver Registered
+2016-11-01 14:52:51 INFO  Main:103 - Successfully connected to MySQL database
+2016-11-01 14:54:35 INFO  Main:89 - MySQL Driver Registered
+2016-11-01 14:54:38 INFO  Main:103 - Successfully connected to MySQL database
+2016-11-01 14:54:38 INFO  Main:43 - 5) EricBegin
+2016-11-01 14:56:20 INFO  Main:89 - MySQL Driver Registered
+2016-11-01 14:56:23 INFO  Main:103 - Successfully connected to MySQL database
+2016-11-01 14:57:18 INFO  Main:89 - MySQL Driver Registered
+2016-11-01 14:57:21 INFO  Main:103 - Successfully connected to MySQL database
+2016-11-01 14:57:22 INFO  Main:43 - 1) Dan  Simmer
+2016-11-01 14:57:22 INFO  Main:43 - 2) James  McRoberts
+2016-11-01 14:57:22 INFO  Main:43 - 3) Adrian  Ratnayake
+2016-11-01 14:57:22 INFO  Main:43 - 4) Sean  Nilsen
+2016-11-01 14:57:22 INFO  Main:43 - 5) Eric  Begin
+2016-11-01 14:57:22 INFO  Main:43 - 6) Kevin  Love
+2016-11-01 14:57:22 INFO  Main:43 - 7) Michael  Jordan
+2016-11-01 14:57:22 INFO  Main:43 - 8) Jim  Beam
+2016-11-01 14:57:22 INFO  Main:43 - 9) Alex  Rodriguez
+2016-11-01 16:30:29 INFO  MySQL:33 - MySQL Driver Registered
+2016-11-01 16:30:34 INFO  MySQL:45 - Successfully connected to MySQL database
+2016-11-01 16:30:52 INFO  MySQL:33 - MySQL Driver Registered
+2016-11-01 16:30:52 INFO  MySQL:45 - Successfully connected to MySQL database
+2016-11-01 17:08:14 INFO  MySQL:39 - MySQL Driver Registered
+2016-11-01 17:08:17 INFO  MySQL:51 - Successfully connected to MySQL database
+2016-11-01 17:08:22 INFO  MySQL:39 - MySQL Driver Registered
+2016-11-01 17:08:23 INFO  MySQL:51 - Successfully connected to MySQL database
+2016-11-02 09:52:22 INFO  MySQL:39 - MySQL Driver Registered
+2016-11-02 09:52:25 INFO  MySQL:51 - Successfully connected to MySQL database
+2016-11-02 09:52:28 ERROR MySQL:54 - java.sql.SQLException: Bad format for DATE '1' in column 2.
+2016-11-02 09:52:38 INFO  MySQL:39 - MySQL Driver Registered
+2016-11-02 09:52:38 INFO  MySQL:51 - Successfully connected to MySQL database
+2016-11-02 09:52:38 ERROR MySQL:33 - java.sql.SQLException: Bad format for DATE 'Dan' in column 2.
+2016-11-02 09:53:51 INFO  MySQL:39 - MySQL Driver Registered
+2016-11-02 09:53:54 INFO  MySQL:51 - Successfully connected to MySQL database
+2016-11-02 09:53:55 ERROR MySQL:54 - java.sql.SQLException: Bad format for DATE '1' in column 2.
+2016-11-02 09:55:47 INFO  MySQL:39 - MySQL Driver Registered
+2016-11-02 09:55:49 INFO  MySQL:51 - Successfully connected to MySQL database
+2016-11-02 09:55:54 INFO  MySQL:39 - MySQL Driver Registered
+2016-11-02 09:55:54 INFO  MySQL:51 - Successfully connected to MySQL database
+2016-11-02 11:04:14 INFO  MySQL:39 - MySQL Driver Registered
+2016-11-02 11:04:18 INFO  MySQL:51 - Successfully connected to MySQL database
+2016-11-02 11:04:19 INFO  Main:41 - New Person Record Inserted. ID = 12
+2016-11-02 11:31:24 INFO  MySQL:39 - MySQL Driver Registered
+2016-11-02 11:31:27 INFO  MySQL:51 - Successfully connected to MySQL database
+2016-11-02 11:31:28 INFO  Main:53 - New Person Record Inserted. ID = 13
+2016-11-02 11:32:15 INFO  MySQL:39 - MySQL Driver Registered
+2016-11-02 11:32:17 INFO  MySQL:51 - Successfully connected to MySQL database
+2016-11-02 11:32:18 INFO  MySQL:39 - MySQL Driver Registered
+2016-11-02 11:32:18 INFO  MySQL:51 - Successfully connected to MySQL database
+2016-11-02 11:34:27 INFO  MySQL:39 - MySQL Driver Registered
+2016-11-02 11:34:29 INFO  MySQL:51 - Successfully connected to MySQL database
+2016-11-02 11:34:29 INFO  MySQL:39 - MySQL Driver Registered
+2016-11-02 11:34:30 INFO  MySQL:51 - Successfully connected to MySQL database
+2016-11-02 11:34:30 INFO  Main:37 - Person updated successfully
+2016-11-02 11:40:32 INFO  MySQL:39 - MySQL Driver Registered
+2016-11-02 11:40:36 INFO  MySQL:51 - Successfully connected to MySQL database
+2016-11-02 11:40:37 INFO  Main:33 - Person Deleted Successfully.
+2016-11-02 13:20:27 INFO  MySQL:39 - MySQL Driver Registered
+2016-11-02 13:20:30 INFO  MySQL:51 - Successfully connected to MySQL database
+2016-11-02 13:20:31 INFO  Main:39 - New Person Record Inserted. ID = 26
+2016-11-02 13:21:33 INFO  MySQL:39 - MySQL Driver Registered
+2016-11-02 13:21:35 INFO  MySQL:51 - Successfully connected to MySQL database
+2016-11-02 13:21:35 INFO  Main:39 - New Person Record Inserted. ID = 27
+2016-11-02 13:23:24 INFO  MySQL:39 - MySQL Driver Registered
+2016-11-02 13:23:27 INFO  MySQL:51 - Successfully connected to MySQL database
+2016-11-02 13:23:28 INFO  Main:40 - New Employee Record Inserted. ID = 28
+2016-11-02 13:25:54 INFO  MySQL:39 - MySQL Driver Registered
+2016-11-02 13:25:57 INFO  MySQL:51 - Successfully connected to MySQL database
+2016-11-02 13:25:57 INFO  Main:40 - Employee Record Successfully Updated.
+2016-11-02 13:28:07 INFO  MySQL:39 - MySQL Driver Registered
+2016-11-02 13:28:10 INFO  MySQL:51 - Successfully connected to MySQL database
+2016-11-02 13:28:10 INFO  Main:40 - Employee Record Successfully Updated.
+2016-11-02 13:29:04 INFO  MySQL:39 - MySQL Driver Registered
+2016-11-02 13:29:06 INFO  MySQL:51 - Successfully connected to MySQL database
+2016-11-02 13:29:07 INFO  Main:40 - Employee Record Successfully Updated.
+2016-11-02 13:31:30 INFO  MySQL:39 - MySQL Driver Registered
+2016-11-02 13:31:34 INFO  MySQL:51 - Successfully connected to MySQL database
+2016-11-02 13:31:34 INFO  Main:33 - EMPLOYEE RECORD SUCCESSFULLY DELETED
+2016-11-02 13:42:20 INFO  Main:34 - Simple Name: com.astontech.bo.Employee
+2016-11-02 13:46:11 INFO  Main:36 - Name: com.astontech.bo.Employee
+2016-11-02 13:46:11 INFO  Main:37 - Simple Name: Employee
+2016-11-02 13:46:11 INFO  Main:39 - Field: EmployeeId - Type: int
+2016-11-02 13:46:11 INFO  Main:39 - Field: HireDate - Type: class java.util.Date
+2016-11-02 13:46:11 INFO  Main:39 - Field: TermDate - Type: class java.util.Date
+2016-11-02 13:46:11 INFO  Main:42 - Method: setEmployeeId
+2016-11-02 13:46:11 INFO  Main:42 - Method: setHireDate
+2016-11-02 13:46:11 INFO  Main:42 - Method: setTermDate
+2016-11-02 13:46:11 INFO  Main:42 - Method: getEmployeeId
+2016-11-02 13:46:11 INFO  Main:42 - Method: getHireDate
+2016-11-02 13:46:11 INFO  Main:42 - Method: getTermDate
+2016-11-02 13:46:51 INFO  Main:36 - Name: com.astontech.bo.Employee
+2016-11-02 13:46:51 INFO  Main:37 - Simple Name: Employee
+2016-11-02 13:46:51 INFO  Main:39 - Field: EmployeeId - Type: int
+2016-11-02 13:46:51 INFO  Main:39 - Field: HireDate - Type: class java.util.Date
+2016-11-02 13:46:51 INFO  Main:39 - Field: TermDate - Type: class java.util.Date
+2016-11-02 13:46:51 INFO  Main:42 - Method: setEmployeeId
+2016-11-02 13:46:51 INFO  Main:42 - Method: setHireDate
+2016-11-02 13:46:51 INFO  Main:42 - Method: setTermDate
+2016-11-02 13:46:51 INFO  Main:42 - Method: getEmployeeId
+2016-11-02 13:46:51 INFO  Main:42 - Method: getHireDate
+2016-11-02 13:46:51 INFO  Main:42 - Method: getTermDate
+2016-11-02 13:47:32 INFO  Main:36 - Name: java.lang.String
+2016-11-02 13:47:32 INFO  Main:37 - Simple Name: String
+2016-11-02 13:47:32 INFO  Main:39 - Field: value - Type: class [C
+2016-11-02 13:47:32 INFO  Main:39 - Field: hash - Type: int
+2016-11-02 13:47:32 INFO  Main:39 - Field: serialVersionUID - Type: long
+2016-11-02 13:47:32 INFO  Main:39 - Field: serialPersistentFields - Type: class [Ljava.io.ObjectStreamField;
+2016-11-02 13:47:32 INFO  Main:39 - Field: CASE_INSENSITIVE_ORDER - Type: interface java.util.Comparator
+2016-11-02 13:47:32 INFO  Main:42 - Method: equals
+2016-11-02 13:47:32 INFO  Main:42 - Method: toString
+2016-11-02 13:47:32 INFO  Main:42 - Method: hashCode
+2016-11-02 13:47:32 INFO  Main:42 - Method: compareTo
+2016-11-02 13:47:32 INFO  Main:42 - Method: compareTo
+2016-11-02 13:47:32 INFO  Main:42 - Method: indexOf
+2016-11-02 13:47:32 INFO  Main:42 - Method: indexOf
+2016-11-02 13:47:32 INFO  Main:42 - Method: indexOf
+2016-11-02 13:47:32 INFO  Main:42 - Method: indexOf
+2016-11-02 13:47:32 INFO  Main:42 - Method: indexOf
+2016-11-02 13:47:32 INFO  Main:42 - Method: indexOf
+2016-11-02 13:47:32 INFO  Main:42 - Method: valueOf
+2016-11-02 13:47:32 INFO  Main:42 - Method: valueOf
+2016-11-02 13:47:32 INFO  Main:42 - Method: valueOf
+2016-11-02 13:47:32 INFO  Main:42 - Method: valueOf
+2016-11-02 13:47:32 INFO  Main:42 - Method: valueOf
+2016-11-02 13:47:32 INFO  Main:42 - Method: valueOf
+2016-11-02 13:47:32 INFO  Main:42 - Method: valueOf
+2016-11-02 13:47:32 INFO  Main:42 - Method: valueOf
+2016-11-02 13:47:32 INFO  Main:42 - Method: valueOf
+2016-11-02 13:47:32 INFO  Main:42 - Method: charAt
+2016-11-02 13:47:32 INFO  Main:42 - Method: checkBounds
+2016-11-02 13:47:32 INFO  Main:42 - Method: codePointAt
+2016-11-02 13:47:32 INFO  Main:42 - Method: codePointBefore
+2016-11-02 13:47:32 INFO  Main:42 - Method: codePointCount
+2016-11-02 13:47:32 INFO  Main:42 - Method: compareToIgnoreCase
+2016-11-02 13:47:32 INFO  Main:42 - Method: concat
+2016-11-02 13:47:32 INFO  Main:42 - Method: contains
+2016-11-02 13:47:32 INFO  Main:42 - Method: contentEquals
+2016-11-02 13:47:32 INFO  Main:42 - Method: contentEquals
+2016-11-02 13:47:32 INFO  Main:42 - Method: copyValueOf
+2016-11-02 13:47:32 INFO  Main:42 - Method: copyValueOf
+2016-11-02 13:47:32 INFO  Main:42 - Method: endsWith
+2016-11-02 13:47:32 INFO  Main:42 - Method: equalsIgnoreCase
+2016-11-02 13:47:32 INFO  Main:42 - Method: format
+2016-11-02 13:47:32 INFO  Main:42 - Method: format
+2016-11-02 13:47:32 INFO  Main:42 - Method: getBytes
+2016-11-02 13:47:32 INFO  Main:42 - Method: getBytes
+2016-11-02 13:47:32 INFO  Main:42 - Method: getBytes
+2016-11-02 13:47:32 INFO  Main:42 - Method: getBytes
+2016-11-02 13:47:32 INFO  Main:42 - Method: getChars
+2016-11-02 13:47:32 INFO  Main:42 - Method: getChars
+2016-11-02 13:47:32 INFO  Main:42 - Method: indexOfSupplementary
+2016-11-02 13:47:32 INFO  Main:42 - Method: intern
+2016-11-02 13:47:32 INFO  Main:42 - Method: isEmpty
+2016-11-02 13:47:32 INFO  Main:42 - Method: join
+2016-11-02 13:47:32 INFO  Main:42 - Method: join
+2016-11-02 13:47:32 INFO  Main:42 - Method: lastIndexOf
+2016-11-02 13:47:32 INFO  Main:42 - Method: lastIndexOf
+2016-11-02 13:47:32 INFO  Main:42 - Method: lastIndexOf
+2016-11-02 13:47:32 INFO  Main:42 - Method: lastIndexOf
+2016-11-02 13:47:32 INFO  Main:42 - Method: lastIndexOf
+2016-11-02 13:47:32 INFO  Main:42 - Method: lastIndexOf
+2016-11-02 13:47:32 INFO  Main:42 - Method: lastIndexOfSupplementary
+2016-11-02 13:47:32 INFO  Main:42 - Method: length
+2016-11-02 13:47:32 INFO  Main:42 - Method: matches
+2016-11-02 13:47:32 INFO  Main:42 - Method: nonSyncContentEquals
+2016-11-02 13:47:32 INFO  Main:42 - Method: offsetByCodePoints
+2016-11-02 13:47:32 INFO  Main:42 - Method: regionMatches
+2016-11-02 13:47:32 INFO  Main:42 - Method: regionMatches
+2016-11-02 13:47:32 INFO  Main:42 - Method: replace
+2016-11-02 13:47:32 INFO  Main:42 - Method: replace
+2016-11-02 13:47:32 INFO  Main:42 - Method: replaceAll
+2016-11-02 13:47:32 INFO  Main:42 - Method: replaceFirst
+2016-11-02 13:47:32 INFO  Main:42 - Method: split
+2016-11-02 13:47:32 INFO  Main:42 - Method: split
+2016-11-02 13:47:32 INFO  Main:42 - Method: startsWith
+2016-11-02 13:47:32 INFO  Main:42 - Method: startsWith
+2016-11-02 13:47:32 INFO  Main:42 - Method: subSequence
+2016-11-02 13:47:32 INFO  Main:42 - Method: substring
+2016-11-02 13:47:32 INFO  Main:42 - Method: substring
+2016-11-02 13:47:32 INFO  Main:42 - Method: toCharArray
+2016-11-02 13:47:32 INFO  Main:42 - Method: toLowerCase
+2016-11-02 13:47:32 INFO  Main:42 - Method: toLowerCase
+2016-11-02 13:47:32 INFO  Main:42 - Method: toUpperCase
+2016-11-02 13:47:32 INFO  Main:42 - Method: toUpperCase
+2016-11-02 13:47:32 INFO  Main:42 - Method: trim
+2016-11-02 13:54:54 INFO  Main:34 - Name: com.astontech.bo.EntityType
+2016-11-02 13:54:54 INFO  Main:35 - Simple Name: EntityType
+2016-11-02 13:54:54 INFO  Main:37 - Field: EntityTypeId - Type: int
+2016-11-02 13:54:54 INFO  Main:37 - Field: EntityTypeName - Type: class java.lang.String
+2016-11-02 13:54:54 INFO  Main:40 - Method: getEntityTypeName
+2016-11-02 13:54:54 INFO  Main:40 - Method: setEntityTypeName
+2016-11-02 13:54:54 INFO  Main:40 - Method: getEntityTypeId
+2016-11-02 13:54:54 INFO  Main:40 - Method: setEntityTypeId
+2016-11-02 13:58:51 INFO  Main:47 - Name: java.lang.Integer
+2016-11-02 13:58:51 INFO  Main:48 - Simple Name: Integer
+2016-11-02 13:58:51 INFO  Main:50 - Field: MIN_VALUE - Type: int
+2016-11-02 13:58:51 INFO  Main:50 - Field: MAX_VALUE - Type: int
+2016-11-02 13:58:51 INFO  Main:50 - Field: TYPE - Type: class java.lang.Class
+2016-11-02 13:58:51 INFO  Main:50 - Field: digits - Type: class [C
+2016-11-02 13:58:51 INFO  Main:50 - Field: DigitTens - Type: class [C
+2016-11-02 13:58:51 INFO  Main:50 - Field: DigitOnes - Type: class [C
+2016-11-02 13:58:51 INFO  Main:50 - Field: sizeTable - Type: class [I
+2016-11-02 13:58:51 INFO  Main:50 - Field: value - Type: int
+2016-11-02 13:58:51 INFO  Main:50 - Field: SIZE - Type: int
+2016-11-02 13:58:51 INFO  Main:50 - Field: BYTES - Type: int
+2016-11-02 13:58:51 INFO  Main:50 - Field: serialVersionUID - Type: long
+2016-11-02 13:58:51 INFO  Main:53 - Method: numberOfLeadingZeros
+2016-11-02 13:58:51 INFO  Main:53 - Method: numberOfTrailingZeros
+2016-11-02 13:58:51 INFO  Main:53 - Method: bitCount
+2016-11-02 13:58:51 INFO  Main:53 - Method: equals
+2016-11-02 13:58:51 INFO  Main:53 - Method: toString
+2016-11-02 13:58:51 INFO  Main:53 - Method: toString
+2016-11-02 13:58:51 INFO  Main:53 - Method: toString
+2016-11-02 13:58:51 INFO  Main:53 - Method: hashCode
+2016-11-02 13:58:51 INFO  Main:53 - Method: hashCode
+2016-11-02 13:58:51 INFO  Main:53 - Method: min
+2016-11-02 13:58:51 INFO  Main:53 - Method: max
+2016-11-02 13:58:51 INFO  Main:53 - Method: reverseBytes
+2016-11-02 13:58:51 INFO  Main:53 - Method: compareTo
+2016-11-02 13:58:51 INFO  Main:53 - Method: compareTo
+2016-11-02 13:58:51 INFO  Main:53 - Method: byteValue
+2016-11-02 13:58:51 INFO  Main:53 - Method: shortValue
+2016-11-02 13:58:51 INFO  Main:53 - Method: intValue
+2016-11-02 13:58:51 INFO  Main:53 - Method: longValue
+2016-11-02 13:58:51 INFO  Main:53 - Method: floatValue
+2016-11-02 13:58:51 INFO  Main:53 - Method: doubleValue
+2016-11-02 13:58:51 INFO  Main:53 - Method: valueOf
+2016-11-02 13:58:51 INFO  Main:53 - Method: valueOf
+2016-11-02 13:58:51 INFO  Main:53 - Method: valueOf
+2016-11-02 13:58:51 INFO  Main:53 - Method: toHexString
+2016-11-02 13:58:51 INFO  Main:53 - Method: compare
+2016-11-02 13:58:51 INFO  Main:53 - Method: decode
+2016-11-02 13:58:51 INFO  Main:53 - Method: getChars
+2016-11-02 13:58:51 INFO  Main:53 - Method: reverse
+2016-11-02 13:58:51 INFO  Main:53 - Method: stringSize
+2016-11-02 13:58:51 INFO  Main:53 - Method: sum
+2016-11-02 13:58:51 INFO  Main:53 - Method: parseInt
+2016-11-02 13:58:51 INFO  Main:53 - Method: parseInt
+2016-11-02 13:58:51 INFO  Main:53 - Method: toUnsignedLong
+2016-11-02 13:58:51 INFO  Main:53 - Method: compareUnsigned
+2016-11-02 13:58:51 INFO  Main:53 - Method: divideUnsigned
+2016-11-02 13:58:51 INFO  Main:53 - Method: formatUnsignedInt
+2016-11-02 13:58:51 INFO  Main:53 - Method: getInteger
+2016-11-02 13:58:51 INFO  Main:53 - Method: getInteger
+2016-11-02 13:58:51 INFO  Main:53 - Method: getInteger
+2016-11-02 13:58:51 INFO  Main:53 - Method: highestOneBit
+2016-11-02 13:58:51 INFO  Main:53 - Method: lowestOneBit
+2016-11-02 13:58:51 INFO  Main:53 - Method: parseUnsignedInt
+2016-11-02 13:58:51 INFO  Main:53 - Method: parseUnsignedInt
+2016-11-02 13:58:51 INFO  Main:53 - Method: remainderUnsigned
+2016-11-02 13:58:51 INFO  Main:53 - Method: rotateLeft
+2016-11-02 13:58:51 INFO  Main:53 - Method: rotateRight
+2016-11-02 13:58:51 INFO  Main:53 - Method: signum
+2016-11-02 13:58:51 INFO  Main:53 - Method: toBinaryString
+2016-11-02 13:58:51 INFO  Main:53 - Method: toOctalString
+2016-11-02 13:58:51 INFO  Main:53 - Method: toUnsignedString
+2016-11-02 13:58:51 INFO  Main:53 - Method: toUnsignedString
+2016-11-02 13:58:51 INFO  Main:53 - Method: toUnsignedString0
+2016-11-02 14:19:05 INFO  MySQL:39 - MySQL Driver Registered
+2016-11-02 14:19:07 INFO  MySQL:51 - Successfully connected to MySQL database
+2016-11-02 14:19:08 ERROR Main:47 - java.io.FileNotFoundException: \.ser_person.txt (Access is denied)
+2016-11-02 14:22:07 INFO  MySQL:39 - MySQL Driver Registered
+2016-11-02 14:22:11 INFO  MySQL:51 - Successfully connected to MySQL database
+2016-11-02 14:25:32 INFO  Main:47 - com.astontech.bo.Person@b1bc7ed
+2016-11-02 14:26:28 INFO  Main:47 - PersonId= 1) Name: Dan, DOB: null
+2016-11-02 14:40:29 INFO  Main:35 - Recursive Count = 25
+2016-11-02 14:40:29 INFO  Main:35 - Recursive Count = 24
+2016-11-02 14:40:29 INFO  Main:35 - Recursive Count = 23
+2016-11-02 14:40:29 INFO  Main:35 - Recursive Count = 22
+2016-11-02 14:40:29 INFO  Main:35 - Recursive Count = 21
+2016-11-02 14:40:29 INFO  Main:35 - Recursive Count = 20
+2016-11-02 14:40:29 INFO  Main:35 - Recursive Count = 19
+2016-11-02 14:40:29 INFO  Main:35 - Recursive Count = 18
+2016-11-02 14:40:29 INFO  Main:35 - Recursive Count = 17
+2016-11-02 14:40:29 INFO  Main:35 - Recursive Count = 16
+2016-11-02 14:40:29 INFO  Main:35 - Recursive Count = 15
+2016-11-02 14:40:29 INFO  Main:35 - Recursive Count = 14
+2016-11-02 14:40:29 INFO  Main:35 - Recursive Count = 13
+2016-11-02 14:40:29 INFO  Main:35 - Recursive Count = 12
+2016-11-02 14:40:29 INFO  Main:35 - Recursive Count = 11
+2016-11-02 14:40:29 INFO  Main:35 - Recursive Count = 10
+2016-11-02 14:40:29 INFO  Main:35 - Recursive Count = 9
+2016-11-02 14:40:29 INFO  Main:35 - Recursive Count = 8
+2016-11-02 14:40:29 INFO  Main:35 - Recursive Count = 7
+2016-11-02 14:40:29 INFO  Main:35 - Recursive Count = 6
+2016-11-02 14:40:29 INFO  Main:35 - Recursive Count = 5
+2016-11-02 14:40:29 INFO  Main:35 - Recursive Count = 4
+2016-11-02 14:40:29 INFO  Main:35 - Recursive Count = 3
+2016-11-02 14:40:29 INFO  Main:35 - Recursive Count = 2
+2016-11-02 14:40:29 INFO  Main:35 - Recursive Count = 1
+2016-11-02 14:40:29 INFO  Main:35 - Recursive Count = 0
+2016-11-02 14:48:15 INFO  Main:38 - directory: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\.idea
+2016-11-02 14:48:15 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\.idea\compiler.xml
+2016-11-02 14:48:15 INFO  Main:38 - directory: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\.idea\copyright
+2016-11-02 14:48:15 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\.idea\copyright\profiles_settings.xml
+2016-11-02 14:48:15 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\.idea\description.html
+2016-11-02 14:48:15 INFO  Main:38 - directory: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\.idea\libraries
+2016-11-02 14:48:15 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\.idea\libraries\log4j_1_2_17.xml
+2016-11-02 14:48:15 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\.idea\libraries\mysql_connector_java_5_1_38_bin.xml
+2016-11-02 14:48:15 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\.idea\libraries\sqljdbc42.xml
+2016-11-02 14:48:15 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\.idea\misc.xml
+2016-11-02 14:48:15 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\.idea\modules.xml
+2016-11-02 14:48:15 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\.idea\project-template.xml
+2016-11-02 14:48:15 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\.idea\uiDesigner.xml
+2016-11-02 14:48:15 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\.idea\vcs.xml
+2016-11-02 14:48:15 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\.idea\workspace.xml
+2016-11-02 14:48:15 INFO  Main:38 - directory: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\bo
+2016-11-02 14:48:15 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\bo\bo.iml
+2016-11-02 14:48:15 INFO  Main:38 - directory: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\bo\src
+2016-11-02 14:48:15 INFO  Main:38 - directory: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\bo\src\com
+2016-11-02 14:48:15 INFO  Main:38 - directory: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\bo\src\com\astontech
+2016-11-02 14:48:15 INFO  Main:38 - directory: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\bo\src\com\astontech\bo
+2016-11-02 14:48:15 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\bo\src\com\astontech\bo\Address.java
+2016-11-02 14:48:15 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\bo\src\com\astontech\bo\BaseBO.java
+2016-11-02 14:48:15 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\bo\src\com\astontech\bo\Client.java
+2016-11-02 14:48:15 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\bo\src\com\astontech\bo\ClientContact.java
+2016-11-02 14:48:15 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\bo\src\com\astontech\bo\Email.java
+2016-11-02 14:48:15 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\bo\src\com\astontech\bo\Employee.java
+2016-11-02 14:48:15 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\bo\src\com\astontech\bo\Entity.java
+2016-11-02 14:48:15 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\bo\src\com\astontech\bo\EntityType.java
+2016-11-02 14:48:15 INFO  Main:38 - directory: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\bo\src\com\astontech\bo\interfaces
+2016-11-02 14:48:15 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\bo\src\com\astontech\bo\interfaces\Budweiser.java
+2016-11-02 14:48:15 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\bo\src\com\astontech\bo\interfaces\CharSeqTest.java
+2016-11-02 14:48:15 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\bo\src\com\astontech\bo\interfaces\Home.java
+2016-11-02 14:48:15 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\bo\src\com\astontech\bo\interfaces\IAlcohol.java
+2016-11-02 14:48:15 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\bo\src\com\astontech\bo\interfaces\ILocation.java
+2016-11-02 14:48:15 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\bo\src\com\astontech\bo\interfaces\Site.java
+2016-11-02 14:48:15 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\bo\src\com\astontech\bo\interfaces\Whiskey.java
+2016-11-02 14:48:15 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\bo\src\com\astontech\bo\LoyaltyAccount.java
+2016-11-02 14:48:15 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\bo\src\com\astontech\bo\LoyaltyCompany.java
+2016-11-02 14:48:15 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\bo\src\com\astontech\bo\Person.java
+2016-11-02 14:48:15 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\bo\src\com\astontech\bo\Phone.java
+2016-11-02 14:48:15 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\bo\src\com\astontech\bo\Project.java
+2016-11-02 14:48:15 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\bo\src\com\astontech\bo\ProjectStatus.java
+2016-11-02 14:48:15 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\bo\src\com\astontech\bo\Review.java
+2016-11-02 14:48:15 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\bo\src\com\astontech\bo\ReviewData.java
+2016-11-02 14:48:15 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\bo\src\com\astontech\bo\Training.java
+2016-11-02 14:48:15 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\bo\src\com\astontech\bo\TrainingData.java
+2016-11-02 14:48:15 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\bo\src\com\astontech\bo\Vehicle.java
+2016-11-02 14:48:15 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\bo\src\com\astontech\bo\VehicleMake.java
+2016-11-02 14:48:15 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\bo\src\com\astontech\bo\VehicleModel.java
+2016-11-02 14:48:15 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\bo\src\com\astontech\bo\VehicleStatus.java
+2016-11-02 14:48:15 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\com.astontech.oop.iml
+2016-11-02 14:48:15 INFO  Main:38 - directory: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\common
+2016-11-02 14:48:15 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\common\common.iml
+2016-11-02 14:48:15 INFO  Main:38 - directory: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\common\src
+2016-11-02 14:48:15 INFO  Main:38 - directory: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\common\src\common
+2016-11-02 14:48:15 INFO  Main:38 - directory: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\common\src\common\helpers
+2016-11-02 14:48:15 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\common\src\common\helpers\DateHelper.java
+2016-11-02 14:48:15 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\common\src\common\helpers\MathHelper.java
+2016-11-02 14:48:15 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\common\src\common\helpers\StringHelper.java
+2016-11-02 14:48:15 INFO  Main:38 - directory: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\console
+2016-11-02 14:48:15 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\console\console.iml
+2016-11-02 14:48:15 INFO  Main:38 - directory: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\console\src
+2016-11-02 14:48:15 INFO  Main:38 - directory: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\console\src\com
+2016-11-02 14:48:15 INFO  Main:38 - directory: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\console\src\com\astontech
+2016-11-02 14:48:15 INFO  Main:38 - directory: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\console\src\com\astontech\console
+2016-11-02 14:48:15 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\console\src\com\astontech\console\Main.java
+2016-11-02 14:48:15 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\console\src\log4j.properties
+2016-11-02 14:48:15 INFO  Main:38 - directory: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\dao
+2016-11-02 14:48:15 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\dao\dao.iml
+2016-11-02 14:48:15 INFO  Main:38 - directory: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\dao\src
+2016-11-02 14:48:15 INFO  Main:38 - directory: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\dao\src\com
+2016-11-02 14:48:15 INFO  Main:38 - directory: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\dao\src\com\astontech
+2016-11-02 14:48:15 INFO  Main:38 - directory: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\dao\src\com\astontech\dao
+2016-11-02 14:48:15 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\dao\src\com\astontech\dao\EmployeeDAO.java
+2016-11-02 14:48:15 INFO  Main:38 - directory: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\dao\src\com\astontech\dao\mysql
+2016-11-02 14:48:15 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\dao\src\com\astontech\dao\mysql\EmployeeDAOImpl.java
+2016-11-02 14:48:15 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\dao\src\com\astontech\dao\mysql\MySQL.java
+2016-11-02 14:48:15 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\dao\src\com\astontech\dao\mysql\PersonDAOImpl.java
+2016-11-02 14:48:15 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\dao\src\com\astontech\dao\PersonDAO.java
+2016-11-02 14:48:15 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\log4j-application.log
+2016-11-02 14:48:15 INFO  Main:38 - directory: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\out
+2016-11-02 14:48:15 INFO  Main:38 - directory: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\out\production
+2016-11-02 14:48:15 INFO  Main:38 - directory: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\out\production\bo
+2016-11-02 14:48:15 INFO  Main:38 - directory: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\out\production\bo\com
+2016-11-02 14:48:15 INFO  Main:38 - directory: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\out\production\bo\com\astontech
+2016-11-02 14:48:15 INFO  Main:38 - directory: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\out\production\bo\com\astontech\bo
+2016-11-02 14:48:15 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\out\production\bo\com\astontech\bo\Address.class
+2016-11-02 14:48:15 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\out\production\bo\com\astontech\bo\BaseBO.class
+2016-11-02 14:48:15 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\out\production\bo\com\astontech\bo\Client.class
+2016-11-02 14:48:15 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\out\production\bo\com\astontech\bo\ClientContact.class
+2016-11-02 14:48:15 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\out\production\bo\com\astontech\bo\Email.class
+2016-11-02 14:48:15 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\out\production\bo\com\astontech\bo\Employee.class
+2016-11-02 14:48:15 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\out\production\bo\com\astontech\bo\Entity.class
+2016-11-02 14:48:16 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\out\production\bo\com\astontech\bo\EntityType.class
+2016-11-02 14:48:16 INFO  Main:38 - directory: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\out\production\bo\com\astontech\bo\interfaces
+2016-11-02 14:48:16 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\out\production\bo\com\astontech\bo\interfaces\Budweiser.class
+2016-11-02 14:48:16 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\out\production\bo\com\astontech\bo\interfaces\CharSeqTest.class
+2016-11-02 14:48:16 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\out\production\bo\com\astontech\bo\interfaces\Home.class
+2016-11-02 14:48:16 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\out\production\bo\com\astontech\bo\interfaces\IAlcohol.class
+2016-11-02 14:48:16 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\out\production\bo\com\astontech\bo\interfaces\ILocation.class
+2016-11-02 14:48:16 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\out\production\bo\com\astontech\bo\interfaces\Site.class
+2016-11-02 14:48:16 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\out\production\bo\com\astontech\bo\interfaces\Whiskey.class
+2016-11-02 14:48:16 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\out\production\bo\com\astontech\bo\LoyaltyAccount.class
+2016-11-02 14:48:16 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\out\production\bo\com\astontech\bo\LoyaltyCompany.class
+2016-11-02 14:48:16 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\out\production\bo\com\astontech\bo\Person.class
+2016-11-02 14:48:16 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\out\production\bo\com\astontech\bo\Phone.class
+2016-11-02 14:48:16 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\out\production\bo\com\astontech\bo\Project.class
+2016-11-02 14:48:16 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\out\production\bo\com\astontech\bo\ProjectStatus.class
+2016-11-02 14:48:16 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\out\production\bo\com\astontech\bo\Review.class
+2016-11-02 14:48:16 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\out\production\bo\com\astontech\bo\ReviewData.class
+2016-11-02 14:48:16 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\out\production\bo\com\astontech\bo\Training.class
+2016-11-02 14:48:16 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\out\production\bo\com\astontech\bo\TrainingData.class
+2016-11-02 14:48:16 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\out\production\bo\com\astontech\bo\Vehicle.class
+2016-11-02 14:48:16 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\out\production\bo\com\astontech\bo\VehicleMake.class
+2016-11-02 14:48:16 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\out\production\bo\com\astontech\bo\VehicleModel.class
+2016-11-02 14:48:16 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\out\production\bo\com\astontech\bo\VehicleStatus.class
+2016-11-02 14:48:16 INFO  Main:38 - directory: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\out\production\com.astontech.oop
+2016-11-02 14:48:16 INFO  Main:38 - directory: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\out\production\com.astontech.oop\com
+2016-11-02 14:48:16 INFO  Main:38 - directory: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\out\production\com.astontech.oop\com\astontech
+2016-11-02 14:48:16 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\out\production\com.astontech.oop\com\astontech\Main.class
+2016-11-02 14:48:16 INFO  Main:38 - directory: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\out\production\common
+2016-11-02 14:48:16 INFO  Main:38 - directory: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\out\production\common\common
+2016-11-02 14:48:16 INFO  Main:38 - directory: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\out\production\common\common\helpers
+2016-11-02 14:48:16 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\out\production\common\common\helpers\DateHelper.class
+2016-11-02 14:48:16 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\out\production\common\common\helpers\MathHelper.class
+2016-11-02 14:48:16 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\out\production\common\common\helpers\StringHelper.class
+2016-11-02 14:48:16 INFO  Main:38 - directory: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\out\production\console
+2016-11-02 14:48:16 INFO  Main:38 - directory: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\out\production\console\com
+2016-11-02 14:48:16 INFO  Main:38 - directory: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\out\production\console\com\astontech
+2016-11-02 14:48:16 INFO  Main:38 - directory: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\out\production\console\com\astontech\console
+2016-11-02 14:48:16 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\out\production\console\com\astontech\console\Main.class
+2016-11-02 14:48:16 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\out\production\console\log4j.properties
+2016-11-02 14:48:16 INFO  Main:38 - directory: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\out\production\dao
+2016-11-02 14:48:16 INFO  Main:38 - directory: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\out\production\dao\com
+2016-11-02 14:48:16 INFO  Main:38 - directory: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\out\production\dao\com\astontech
+2016-11-02 14:48:16 INFO  Main:38 - directory: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\out\production\dao\com\astontech\dao
+2016-11-02 14:48:16 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\out\production\dao\com\astontech\dao\EmployeeDAO.class
+2016-11-02 14:48:16 INFO  Main:38 - directory: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\out\production\dao\com\astontech\dao\mysql
+2016-11-02 14:48:16 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\out\production\dao\com\astontech\dao\mysql\EmployeeDAOImpl.class
+2016-11-02 14:48:16 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\out\production\dao\com\astontech\dao\mysql\MySQL.class
+2016-11-02 14:48:16 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\out\production\dao\com\astontech\dao\mysql\PersonDAOImpl.class
+2016-11-02 14:48:16 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\out\production\dao\com\astontech\dao\PersonDAO.class
+2016-11-02 14:48:16 INFO  Main:41 -       file: C:\Users\kylebutz1\IdeaProjects\com.astontech.oop\ser_person.txt
+2016-11-09 14:58:35 INFO  PersonServlet:46 - Form #2 - Form Name= updatePerson
+2016-11-09 14:59:25 INFO  PersonServlet:44 - Form #1 - Form Name= choosePerson
+2016-11-09 14:59:27 INFO  PersonServlet:48 - Form #2 - Form Name= updatePerson
+2016-11-09 14:59:28 INFO  PersonServlet:48 - Form #2 - Form Name= updatePerson
